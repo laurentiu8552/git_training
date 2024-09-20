@@ -1,2 +1,2 @@
 library(RPostgres)
-library(tidyverse)  #load many packages smth
+library(tidyverse)  #load many packages
